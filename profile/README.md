@@ -1,6 +1,6 @@
 # Qash
 
-<img height="300" alt="Qash Cover" src="https://github.com/qash-finance/.github/blob/main/assets/cover.jpg" />
+<img height="500" width="100%" alt="Qash Cover" src="https://github.com/qash-finance/.github/blob/main/assets/cover.jpg" />
 
 [![Website][ico-website]][link-website] [![Telegram][ico-telegram]][link-telegram] [![Twitter][ico-twitter]][link-twitter]
 
