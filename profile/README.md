@@ -16,7 +16,7 @@
 
 ## What is Qash?
 
-Qash is a **private neobank for global teams**, primarily targeting **SEA, LATAM, and Africa**. It enables companies to **pay, earn, and spend** across chains and currencies without exposing sensitive financial data.
+Qash is a self-custodial business banking platform that unifies multisig, payments, treasury management, and banking access with on-chain privacy
 
 ## The Problems We Solve
 
